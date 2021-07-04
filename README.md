@@ -1,6 +1,6 @@
-# Hey! Welcome to my profile! How is it going? 👋😄
+# Hey! Welcome to my profile. How is it going? 👋😄
 
-I'm André Pimenta from Porto (Portugal) and I'm a Quality Assurance Analyst who is passionate for IT and the whole process of developing software. 👨‍💻
+I'm André Pimenta from Porto (Portugal), I work as a Quality Assurance Analyst who is passionate for IT and the whole process of developing software. 👨‍💻
 
 Not afraid to face challenges and love acquiring new skills and knowledge. In an area which is constantly evolving, I like to keep myself updated with what is going on in the world of IT so I spend some time reading websites, blogs, and some newsletters. 🤓
 
@@ -14,4 +14,4 @@ Not afraid to face challenges and love acquiring new skills and knowledge. In an
 ##  🌎 Find me around the web:
 * 📸 [Instagram](https://www.instagram.com/andre.pimenta13/) <br>
 * 💼 [LinkedIn](https://www.linkedin.com/in/andrepimenta13/) <br>
-* 📧 [Gmail](mailto:contato.dvdsantos@gmail.com) <br>
+* 📧 [Gmail](mailto:trz.andre@gmail.com) <br>
