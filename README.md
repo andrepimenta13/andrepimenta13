@@ -12,4 +12,4 @@ Not afraid to face challenges and love acquiring new skills and knowledge. In an
 ## Find me around the web 🌎:
 📸 [Instagram](https://www.instagram.com/andre.pimenta13/) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/andrepimenta13/) <br>
-[Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trz.andre@gmail.com)](mailto:trz.andre@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trz.andre@gmail.com)](mailto:trz.andre@gmail.com)
