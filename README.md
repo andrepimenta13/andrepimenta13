@@ -12,6 +12,6 @@ Not afraid to face challenges and love acquiring new skills and knowledge. In an
 * 💻 HTML, CSS, JS
 
 ##  🌎 Find me around the web:
-📸 [Instagram](https://www.instagram.com/andre.pimenta13/) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/andrepimenta13/) <br>
-📧 [Gmail](mailto:contato.dvdsantos@gmail.com) <br>
+* 📸 [Instagram](https://www.instagram.com/andre.pimenta13/) <br>
+* 💼 [LinkedIn](https://www.linkedin.com/in/andrepimenta13/) <br>
+* 📧 [Gmail](mailto:contato.dvdsantos@gmail.com) <br>
