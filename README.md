@@ -7,9 +7,7 @@ Not afraid to face challenges and love acquiring new skills and knowledge. In an
 💭 Learning is continuous and there will always be a next level 💭
 
 ##  👨‍💻 Skills and Experience:
-* ⚛ React
-* 📱 React Native
-* 💻 HTML, CSS, JS
+* 
 
 ##  🌎 Find me around the web:
 * 📸 [Instagram](https://www.instagram.com/andre.pimenta13/) <br>
